@@ -2,11 +2,10 @@
 
 # Hackerrank Practice Questions (Problem-Solving)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mericalkisla/HackerRank-ProblemSolving) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mericalkisla/Hackerrank-Problem-Solving?color=%23ff9900)
-![License Badge](https://img.shields.io/github/license/mericalkisla/Hackerrank-Problem-Solving)
-![Languages](https://img.shields.io/badge/languages-Kotlin-yellow.svg)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/mericalkisla/Hackerrank-Problem-Solving)
+![GitHub last commit](https://img.shields.io/github/last-commit/MAlkisla/HackerRank-ProblemSolving) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MAlkisla/HackerRank-ProblemSolving)
+![Languages](https://img.shields.io/badge/languages-Kotlin-purple.svg)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/MAlkisla/HackerRank-ProblemSolving)
 
 ## Why this repository?
 
